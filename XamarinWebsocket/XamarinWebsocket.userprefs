@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="XamarinWebsocket\XamarinWebsocket.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.XamarinWebsocket AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5X_API_19" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinWebsocket\MainActivity.cs">
+    <Files>
+      <File FileName="XamarinWebsocket\MainActivity.cs" Line="59" Column="59" />
+      <File FileName="XamarinWebsocket\Resources\values\Strings.xml" Line="5" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

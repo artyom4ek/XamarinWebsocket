@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments />
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj\Debug\__library_projects__\Websockets.Droid\library_project_imports\Websockets.DroidBridge.jar</Jar>
+    <Jar>obj\Debug\__library_projects__\Websockets.Droid\library_project_imports\__reference__androidasync-2.1.6.jar</Jar>
+  </Jars>
+</Paths>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="send_message_text">Send message</string>
+	<string name="data_label_text">Data:</string>
+	<string name="app_name">Xamarin Websocket</string>
+</resources>

@@ -1,0 +1,8 @@
+XamarinWebsocket.MainActivity, XamarinWebsocket;md586f75c5564178e2c27d9c52ce1352d66.MainActivity
+XamarinWebsocket.MainActivity, XamarinWebsocket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md586f75c5564178e2c27d9c52ce1352d66.MainActivity
+XamarinWebsocket.MainActivity;md586f75c5564178e2c27d9c52ce1352d66.MainActivity
+xamarinwebsocket.MainActivity;md586f75c5564178e2c27d9c52ce1352d66.MainActivity
+Websockets.Droid.WebsocketConnection, Websockets.Droid;md58b3d939d061c162c7a16be0d4ecab390.WebsocketConnection
+Websockets.Droid.WebsocketConnection, Websockets.Droid, Version=1.0.1.8, Culture=neutral, PublicKeyToken=null;md58b3d939d061c162c7a16be0d4ecab390.WebsocketConnection
+Websockets.Droid.WebsocketConnection;md58b3d939d061c162c7a16be0d4ecab390.WebsocketConnection
+websockets.droid.WebsocketConnection;md58b3d939d061c162c7a16be0d4ecab390.WebsocketConnection
